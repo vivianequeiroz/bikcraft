@@ -53,6 +53,28 @@ p {
     background: #000;
     margin: 8px auto;
 }
+
+/* SOBRE */
+.subtitulo-interno {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    letter-spacing: .1em;
+    color: #000;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.subtitulo-interno:after {
+    content: "";
+    display: block;
+    width: 60px; 
+    height: 3px; 
+    background: #000;
+    margin: 8px 0;
+}
+/* FIM SOBRE */
+
 /* Header */
 .header {
    width: 100%;
@@ -89,6 +111,9 @@ p {
     color: #FFF;
 }
 
+.header_menu ul li a.menu_ativo {
+    color: #FFF;
+}
 /* Introdução */
 
 .introducao {
@@ -135,6 +160,36 @@ p {
     font-size: 14px;
     letter-spacing: .1em;
 }
+
+/*  SOBRE */
+/*  Introducao interna */
+
+.introducao-interna {
+    width: 100%;
+    height: 160px;
+    margin-top: 92px;
+    text-align: center;
+    color: #FFF;
+    padding-top: 36px;
+    background-size: cover;
+}
+
+.introducao-interna h1 {
+    font-size: 36px;
+    color: #FFF;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.introducao-interna h1:after {
+    content: "";
+    display: block;
+    width: 60px; 
+    height: 3px; 
+    background: #FFF;
+    margin: 6px auto 10px auto; 
+}
+/* FIM SOBRE */
 
 /* Produtos */
 
@@ -242,6 +297,7 @@ p {
 
 .qualidade_lista {
     padding-top:20px;
+    overflow: auto; /*clear-fix*/
 }
 
 .qualidade_lista li {
@@ -324,7 +380,7 @@ p {
 .footer_redes ul li {
     display: inline-block;
     margin-right: 10px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
 }
 
 .footer_redes ul li a {
