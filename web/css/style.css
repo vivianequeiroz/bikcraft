@@ -9,7 +9,10 @@ p {
     line-height: 20px;
 }
 
-
+img {
+    display: block;
+    max-width: 100%;
+}
 
 .btn {
     border: 3px solid #FEC63E; 
