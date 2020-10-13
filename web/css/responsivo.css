@@ -82,6 +82,10 @@
 	background-size: cover;
 }
 
+.qualidade_lista li:nth-child(3) { 
+	padding-left: 0px;
+}
+
 /*Call*/
 .call {
 	padding-top: 10px;
