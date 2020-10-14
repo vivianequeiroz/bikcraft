@@ -10,8 +10,8 @@
 	padding: 0 10px;
 }
 
-/*Footer*/
 
+/*Footer*/
 .quebra {
 	margin-bottom: 0 auto;
 }
@@ -33,9 +33,41 @@
 	width: 26px;
 	height: 26px;
 }
+
+
+/* Produtos */
+.produtos_item h2 { 
+	top: -150px;
+	margin-bottom: -56px;
+}
+
+.produtos_icone {
+	padding: 69px 40px 56px 40px;
+}
+
+.produtos_info p {
+	color: #FFF;
+	font-size: 14px;
+	height: 122px;
+	line-height: 20px;
+	padding: 20px 30px;
+}
+
+.produtos_info ul li {
+	width: 181px;
+	height: 49px;
 }
 
 
+
+
+
+
+
+
+
+
+}
 
 /*Estilo para smartphone*/
 @media only screen and (max-width: 787px) {
@@ -73,8 +105,8 @@
     border-color: #FFF;
 }
 
-/*Introducao*/
 
+/*Introducao*/
 .introducao h1 {
 	font-size: 40px;
 	padding-top: 50px;
@@ -96,6 +128,7 @@
 	margin: 0 0 20px 0;
 }
 
+
 /*  Introducao interna */
 
 .introducao-interna {
@@ -109,6 +142,7 @@
 	padding-top: 10px;
 }
 
+
 /*Qualidade Home*/
 .qualidade:after {
 	display: none;
@@ -121,10 +155,8 @@
 	margin-top: 0;
 }
 
-}
 
 /* Missão  - Sobre*/
-
 .missao_sobre p {
 	padding-right: 0px;
 	font-size: 14px;
@@ -134,4 +166,39 @@
 .missao_sobre ul li {
 	font-size: 14px;
 	line-height: 25px;
+}
+
+
+/* Produtos */
+.produtos_item h2 { 
+	top: -100px;
+	margin-bottom: -68px;
+}
+
+.produtos_icone {
+	padding: 69px 40px 56px 40px;
+}
+
+.produtos_info p {
+	color: #FFF;
+	font-size: 14px;
+	height: auto;
+	line-height: 20px;
+	padding: 20px 30px;
+}
+
+.produtos_info ul li {
+	width: 149px;
+	height: 49px;
+	font-size: 14px;
+	line-height: 20px;
+	padding-top: 14px;
+}
+
+
+/* Formulário */
+.form, .orcamento_dados ul {
+	padding-right: 0;
+ }
+
 }
