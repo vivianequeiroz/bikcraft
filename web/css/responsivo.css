@@ -69,10 +69,19 @@
 	border-color: #fff;
 }
 
+.header_menu ul li a.menu_ativo {
+    border-color: #FFF;
+}
+
 /*Introducao*/
 
 .introducao h1 {
 	font-size: 40px;
+	padding-top: 50px;
+}
+
+.quote-externo {
+	margin-bottom: 40px;
 }
 
 .introducao {
@@ -86,6 +95,14 @@
 	padding: 0 40px 0 40px;
 	margin: 0 0 20px 0;
 }
+
+/*  Introducao interna */
+
+.introducao-interna {
+    margin-top: 0px;
+    
+}
+
 
 /*Call*/
 .call {
@@ -104,4 +121,17 @@
 	margin-top: 0;
 }
 
+}
+
+/* Missão  - Sobre*/
+
+.missao_sobre p {
+	padding-right: 0px;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.missao_sobre ul li {
+	font-size: 14px;
+	line-height: 25px;
 }
