@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./web/css/style.css">
     <link rel="stylesheet" href="./web/css/portfolio.css">
     <link rel="stylesheet" href="./web/css/responsivo.css">
+    <script>document.documentElement.classList.add("js");</script>
 </head>
 <body>
     <header class="header">
@@ -38,22 +39,45 @@
     <!-- fecha introdução interna -->
 
 
-    <section class="container">  
+    <section class="container" data-slide="quote"> 
+
         <blockquote class="quote_clientes">
           <p>“No mundo atual, a continua exblockquoteansão de nossa
           atividade cumpre um papel essencial na formulação da 
           gestão inovadora da qual fazemos parte.”</p>
           <cite>Barbara Moss</cite> 
         </blockquote>
+
+        <blockquote class="quote_clientes">
+          <p>“Pedalar sempre foi a minha paixão, o queo pessoal da Bikcraft
+          fez foi intensificar o meu amor por esta atividade. Recomendo à 
+          todos que amo.”</p>
+          <cite>Carlos Santos</cite> 
+        </blockquote>
+
+        <blockquote class="quote_clientes">
+          <p>“Aquele que ainda não possuem uma bikcraft, não sabem o que
+          estão perdendo. A precisáo é absurda e a velocidade transcendental.
+          Nunca vi nada igual.”</p>
+          <cite>João Bispo</cite> 
+        </blockquote>
     </section> 
     <!--  fecha citação -->
 
 
     <section class="portfolio">
-      <div class="container">
+
+      <div class="container" data-slide="portfolio">
+
         <ul class="portfolio_lista">
           <li class="grid-8"><img src="./web/img/portfolio/retro.jpg" alt="Foto bicicleta retrô"></li>
           <li class="grid-8"><img src="./web/img/portfolio/passeio.jpg" alt="Foto bicicleta passeio"></li>
+          <li class="grid-16"><img src="./web/img/portfolio/esporte.jpg" alt="Foto bicicleta esporte.jpg"></li>
+        </ul>
+        
+        <ul class="portfolio_lista">
+          <li class="grid-8"><img src="./web/img/portfolio/passeio.jpg" alt="Foto bicicleta passeio"></li>
+          <li class="grid-8"><img src="./web/img/portfolio/retro.jpg" alt="Foto bicicleta retrô"></li>
           <li class="grid-16"><img src="./web/img/portfolio/esporte.jpg" alt="Foto bicicleta esporte.jpg"></li>
         </ul>
       </div>
@@ -115,6 +139,10 @@
         </div>
     </footer>
     <!-- fecha footer -->
+
+
+    <script src="./web/js/simple-slide.js"></script>
+    <script src="./web/js/script.js"></script>
     
 </body>
 </html>
