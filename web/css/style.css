@@ -453,6 +453,10 @@ img {
     background: #FEC63E;
 }
 
+.js [data-slide-nav] button:focus {
+    outline-style: none;
+}
+
 /* .js impede que os elementos desapareçam caso o JS 
 não seja executado ou esteja desabilitado */
 
