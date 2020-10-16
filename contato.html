@@ -54,17 +54,16 @@
           <input type="text" id="telefone" name="telefone">
           
             <!-- EVITANDO SPAMS -->
+            <label class="nao-aparece">Se você não é um robô, deixe em branco.</label>
             <input type="text" class="nao-aparece" name="leaveblank">
-            <label class="nao-aparece">Se você não é um robô,deixe em branco.</label>
-
-            <input type="text" class="nao-aparece" name="dontchange">
+            
             <label class="nao-aparece">Se você não é um robô, não mude este campo.</label>
-
+            <input type="text" class="nao-aparece" name="dontuse">
+            <!-- EVITANDO SPAMS -->
           <label for="mensagem">Especificações</label>
           <textarea id="mensagem" name="mensagem" required></textarea>
 
-          <button id="enviar" name="enviar" type="submit" class="btn btn-preto">Enviar</button>
-
+          <button type="submit" class="btn btn-preto">Enviar</button>
         </form>
 
         <div class="contato_dados grid-8">
@@ -151,6 +150,7 @@
 
 
     <script src="./web/js/simple-anime.js"></script>
+    <script src="./web/js/simple-form.js"></script>
     <script src="./web/js/script.js"></script>
     <!-- fecha scripts -->
     

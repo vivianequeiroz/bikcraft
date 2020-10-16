@@ -486,3 +486,15 @@ não seja executado ou esteja desabilitado */
     position: absolute;
     height: 0px;
 }
+
+#form-sucesso {
+    color: #31aa39;
+}
+
+#form-erro {
+    color: #F64540;
+}
+
+#form-sucesso h2, #form-erro h2 {
+    font-weight: bold;
+}
