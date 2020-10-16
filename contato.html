@@ -52,11 +52,19 @@
           
           <label for="telefone">Telefone</label>
           <input type="text" id="telefone" name="telefone">
+          
+            <!-- EVITANDO SPAMS -->
+            <input type="text" class="nao-aparece" name="leaveblank">
+            <label class="nao-aparece">Se você não é um robô,deixe em branco.</label>
+
+            <input type="text" class="nao-aparece" name="dontchange">
+            <label class="nao-aparece">Se você não é um robô, não mude este campo.</label>
 
           <label for="mensagem">Especificações</label>
           <textarea id="mensagem" name="mensagem" required></textarea>
 
-          <button type="submit" class="btn btn-preto">Enviar</button>
+          <button id="enviar" name="enviar" type="submit" class="btn btn-preto">Enviar</button>
+
         </form>
 
         <div class="contato_dados grid-8">
