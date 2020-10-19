@@ -16,10 +16,11 @@ if(window.SimpleAnime) {
 }
 
 if(window.SimpleForm) { 
-    new SimpleForm({
+new SimpleForm({
         form: ".formphp", 
         button: "#enviar",
-        erro: "<div id='form-erro'><Erro no envio!><p>Um erro ocorreu, tente para o e-mail contato@vivianedev.com.</p></div>",
+        erro: "<div id='form-erro'><Erro no envio!><p>Um erro ocorreu, tente para o e-mail vivianedsqueiroz@gmail.com.</p></div>",
         sucesso: "<div id='form-sucesso'><h2>Sucesso no envio!></h2><p>Em breve eu entro em contato com você!.</p></div>"
     });
 }
+
