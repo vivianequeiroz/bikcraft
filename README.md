@@ -1,2 +1,6 @@
-# bikcraft
-Bikcraft is a website of manufactured and customised bicycles and it has been developed during the Web Design course of Origamid using HTML, CSS and JavaScript.  
+<meta charset="utf-8">
+<h1 align="center">Bikcraft</h1>
+
+<img = alt = "Logo bikcraft" src=>
+
+
