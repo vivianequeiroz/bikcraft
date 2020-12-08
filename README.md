@@ -7,7 +7,7 @@
 
 <br>
 <h2> 🚲 Proposta do site </h2>
-Destinado a todos aqueles que amam bicicletas, <a target="_blank" href="https://bikcraft-zeta.vercel.app/index.html">Bikcraft</a> visa construir bicicletas a mão que atendam a todos os gostos e idades. O site oferece seções que tratam sobre a missão da empresa, portfólio de seus produtos e uma área de contato para solicitar orçamentos.
+Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https://bikcraft-zeta.vercel.app/index.html">Bikcraft</a> é uma empresa especializada no setor esportivo que visa construir bicicletas a mão que atendam a todos os gostos e idades. O site oferece seções que tratam sobre a missão da empresa, portfólio de seus produtos e uma área de contato para solicitar orçamentos.
 <br>
 
 <br>
@@ -20,13 +20,14 @@ Destinado a todos aqueles que amam bicicletas, <a target="_blank" href="https://
 
 <br>
 <h2> 🎯 Objetivo do projeto </h2>
-    <p>Bikcraft foi um site criado a partir do curso de Web Design da <a href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, foram abordados de forma introdutória alguns dos seguintes conceitos:</p>
+    <p>Bikcraft foi um site criado a partir do curso de <strong>Web Design</strong> da <a href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, ocorreu a introdução e aplicação dos seguintes conceitos:</p>
 
 - Cores e tipografia
 - UX e UI
 - Arquitetura da Informação
 - Wireframe
-- Responsividade com grid layout
+- Responsividade 
+- Acessibilidade 
 
 <br>
 <h2> ⚙️ Tecnologias utilizadas </h2>
