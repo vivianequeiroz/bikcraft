@@ -17,7 +17,7 @@ Destinado a todos aqueles que amam bicicletas, <a target="_blank" href="https://
 
 <h6 align="center"> Site fictício com fins de aprendizado </h6>
 
-<br>
+
 <br>
 <h2> 🎯 Objetivo do projeto </h2>
     <p>Bikcraft foi um site criado a partir do curso de Web Design da <a href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, foram abordados de forma introdutória alguns dos seguintes conceitos:</p>
