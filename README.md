@@ -20,7 +20,7 @@ Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https:
 
 <br>
 <h2> 🎯 Objetivo do projeto </h2>
-    <p>Bikcraft foi um site criado a partir do curso de <strong>Web Design</strong> da <a href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, ocorreu a introdução e aplicação dos seguintes conceitos:</p>
+    <p>Bikcraft foi um site criado a partir do curso de <strong>Web Design</strong> da <a target="_blank" href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, ocorreu a introdução e aplicação dos seguintes conceitos:</p>
 
 - Cores e tipografia
 - UX e UI
@@ -35,6 +35,7 @@ Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https:
   - [HTML5](https://www.w3schools.com/html/)
   - [CSS3](https://www.w3schools.com/css/)
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [Google Analytics](https://analytics.google.com)
 
 <br> 
 <h2> 🛠️ Implementações </h2>
@@ -57,5 +58,5 @@ Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https:
     5. Abra um Pull Request
 
 <br><br>
-<p align="center">Feito com 💛  por <a href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/
+<p align="center">Feito com 💛  por <a target="_blank" href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/
 ">Viviane Queiroz</a> 👩‍💻 ✨
