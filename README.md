@@ -34,7 +34,7 @@ Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https:
 
   - [HTML5](https://www.w3schools.com/html/)
   - [CSS3](https://www.w3schools.com/css/)
-  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [JavaScript ES6](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   - [Google Analytics](https://analytics.google.com)
 
 <br> 
