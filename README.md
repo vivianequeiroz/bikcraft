@@ -1,36 +1,36 @@
 <meta charset="utf-8">
-<h1 align="center">Bikcraft </h1>
+<h1 align="center"> Bikcraft </h1>
 
 <h2 align="center">
-<a href="https://imgur.com/9AI6EjT"><img src="https://i.imgur.com/9AI6EjT.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9AI6EjT"><img src="https://i.imgur.com/9AI6EjT.png" alt="bikcraft initial page" /></a>
 <h2>
 
 <br>
-<h2> 🚲 Proposta do site </h2>
-Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https://bikcraft-zeta.vercel.app/index.html">Bikcraft</a> é uma empresa especializada no setor esportivo que visa construir bicicletas a mão que atendam a todos os gostos e idades. O site oferece seções que tratam sobre a missão da empresa, portfólio de seus produtos e uma área de contato para solicitar orçamentos.
+<h2> 🚲 Website proposal </h2>
+Intended for all those who love bicycles, <a target="_blank" href="https://bikcraft-zeta.vercel.app/index.html">Bikcraft</a> is a company specialized in the sports sector that aims to build bicycles by hand that suit everyone's preferences and ages. The site offers sections that spread out the company's mission, product portfolio and a contact area to request quotes.
 <br>
 
 <br>
 <h2 align="center">
-<a href="https://imgur.com/VFrkbem" align="center"><img src="https://i.imgur.com/VFrkbem.png" title="source: imgur.com"/></a>
+<a href="https://imgur.com/VFrkbem" align="center"><img src="https://i.imgur.com/VFrkbem.png" alt="bikcraft logo"/></a>
 </h2>
 
-<h6 align="center"> Site fictício com fins de aprendizado </h6>
+<h6 align="center"> Fictional website for learning purposes </h6>
 
 
 <br>
-<h2> 🎯 Objetivo do projeto </h2>
-    <p>Bikcraft foi um site criado a partir do curso de <strong>Web Design</strong> da <a target="_blank" href="https://www.origamid.com/">Origamid</a> com o foco de iniciar o desenvolvimento de habilidades nessa área do desenvolvimento web a fim de melhorar a usabilidade de uma aplicação e elevar a experiência de cada usuário. Para isso, ocorreu a introdução e aplicação dos seguintes conceitos:</p>
+<h2> 🎯 Project goal </h2>
+    <p>Bikcraft is a landing page created from the <strong>Web Design</strong> course of <a target="_blank" href="https://www.origamid.com/">Origamid</a> that focus on the development of main skills a front end developer should have in order to improve the usability of an application and to enhance the experience of each user. To achieve this goal, there was an introduction and application of the following concepts:</p>
 
-- Cores e tipografia
-- UX e UI
-- Arquitetura da Informação
-- Wireframe
-- Responsividade 
-- Acessibilidade 
+- Colors and typography
+- UX and UI
+- Information Architecture
+- Wireframe creation
+- Responsivity 
+- Accessibility 
 
 <br>
-<h2> ⚙️ Tecnologias utilizadas </h2>
+<h2> ⚙️ Tecnologies </h2>
 
   - [HTML5](https://www.w3schools.com/html/)
   - [CSS3](https://www.w3schools.com/css/)
@@ -38,25 +38,24 @@ Destinado a todos aqueles que amam bicicletas, a <a target="_blank" href="https:
   - [Google Analytics](https://analytics.google.com)
 
 <br> 
-<h2> 🛠️ Implementações </h2>
+<h2> 🛠️ Implementations </h2>
 
-- Formulários ✅
-- Animações com JavaScript ✅
+- Forms ✅
+- JavaScript animations ✅
 - SEO ✅ 
-- API para conexão com e-mail - <em>em andamento</em>
 
 <br>
-<h2> 🌱 🌳 Gostaria de contribuir? </h2>
+<h2> 🌱 🌳 Contributions </h2>
 
-    1. Realize um Fork do projeto
-    2. Crie um branch com a nova feature:
-       $ git checkout -b sua-feature
-    3. Realize o commit: 
-       $ git commit -m 'feat: sua feature'
-    4. Realize o Push no Branch 
-       $ git push origin sua-feature
-    5. Abra um Pull Request
+    1. Make a fork of this project
+    2. Make a new branch from master with your implementations:
+       $ git checkout -b your-branch-here
+    3. Commit your changes: 
+       $ git commit -m 'feat: your feature'
+    4. Push your changes:
+       $ git push origin your-branch-here
+    5. Open a pull request
 
 <br><br>
-<p align="center">Feito com 💛  por <a target="_blank" href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/
+<p align="center">Made with 💛  by <a target="_blank" href="https://www.linkedin.com/in/vivianedsqueiroz/
 ">Viviane Queiroz</a> 👩‍💻 ✨
